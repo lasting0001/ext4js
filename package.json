@@ -1,11 +1,11 @@
 {
-  "name": "cache4js",
-  "version": "1.0.0",
+  "name": "ext4js",
+  "version": "1.0.1",
   "description": "A extension for js/nodejs API.",
   "keywords": [
-    "cache",
-    "recycle",
-    "lru",
+    "extension",
+    "ext",
+    "js",
     "node"
   ],
   "license": "Apache-2.0",
