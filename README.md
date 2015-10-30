@@ -6,7 +6,7 @@ A extension for js/nodejs API.
 npm install ext4js   
 2、init
 ````javascript
-var cache = require('ext4js');
+require('ext4js');
 ````
 For more details,please refer to the code.   
    
