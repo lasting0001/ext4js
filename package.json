@@ -1,0 +1,36 @@
+{
+  "name": "cache4js",
+  "version": "1.0.0",
+  "description": "A extension for js/nodejs API.",
+  "keywords": [
+    "cache",
+    "recycle",
+    "lru",
+    "node"
+  ],
+  "license": "Apache-2.0",
+  "main": "./index",
+  "author": "jun.li <514332157@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasting0001/ext4js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lasting0001/ext4js/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "vows"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "browser": {
+    "os": false
+  },
+  "homepage": "https://github.com/lasting0001/ext4js#readme"
+}
