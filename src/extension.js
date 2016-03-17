@@ -42,6 +42,14 @@ Date.prototype.addDate = function (count) {
     }
 };
 
+// 日期加秒数
+Date.prototype.addSecs = function (count) {
+    if (!isNaN(count)) {
+        this.setSeconds(this.getSeconds() + count);
+        return this;
+    }
+};
+
 // 日期复制
 Date.prototype.clone = function () {
     return new Date(this);
